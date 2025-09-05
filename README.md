@@ -1,7 +1,7 @@
 # PF-Lab03---25k-0103-
 
 ## About Me
-- BS Artificial Intelligence student at FAST-NUCES  
+- **BS Artificial Intelligence student at FAST-NUCES**  
 - Learning C language, GitHub, and command line basics  
 - Interested in AI, Python, and exploring how computers actually work
 
